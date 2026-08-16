@@ -24,13 +24,25 @@ Bank statements dump raw transactions with zero structure — every purchase loo
 
 
 
-\## Screenshot
+\## Screenshots
 
 
 
-(Add a screenshot of the live dashboard here — open the live app, screenshot it, drag into this README on GitHub)
+\*\*Dashboard overview — upload, alerts, and category breakdown\*\*
+
+!\[Dashboard overview](dashboard-1.png)
 
 
+
+\*\*Monthly totals and transaction list\*\*
+
+!\[Monthly totals](dashboard-2.png)
+
+
+
+\*\*Transaction table with auto-assigned categories\*\*
+
+!\[Transaction table](dashboard-3.png)
 
 \## Tech Stack
 
